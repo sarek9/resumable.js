@@ -64,7 +64,7 @@
       testChunks:true,
       generateUniqueIdentifier:null,
       getTarget:null,
-      maxChunkRetries:100,
+      maxChunkRetries:undefined,
       chunkRetryInterval:undefined,
       permanentErrors:[400, 401, 403, 404, 409, 415, 500, 501],
       maxFiles:undefined,
